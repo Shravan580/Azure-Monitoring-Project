@@ -1,5 +1,3 @@
-<img width="1813" height="1023" alt="image" src="https://github.com/user-attachments/assets/cda89ed5-b5bc-4ded-bf95-4cdc49de911b" /># Azure-Monitoring-Project
-
 # Objective
 Monitor Azure resources and trigger automatic alerts.
 
